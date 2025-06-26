@@ -1,3 +1,9 @@
+<!--
+ Natural Equilibrium Framework: A Theory of AI-Human Integration
+ Copyright (c) 2025 Paul Kranabetter
+ Licensed under the MIT License - see LICENSE file
+-->
+
 # Natural Equilibrium Framework: A Theory of AI-Human Integration
 
 Authors:
